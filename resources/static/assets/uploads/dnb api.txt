@@ -1,0 +1,1 @@
+https://docs.dnb.com/direct/2.0/en-US/quick-rest-API
